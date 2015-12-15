@@ -1,2 +1,4 @@
-# projectlab
-Project Lab landing page 
+# Project Lab
+Project Lab landing page
+
+Used Bootstrap 3
